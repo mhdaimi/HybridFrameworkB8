@@ -176,4 +176,9 @@ public class Keywords {
 	public static void closeBrowser(String locator, String arg2, String arg3) {
 		browser.quit();
 	}
+	
+	
+	public static void selectFromDropDown(String locator, String arg2, String arg3) {
+		//code here
+	}
 }
