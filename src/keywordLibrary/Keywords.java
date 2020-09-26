@@ -181,4 +181,12 @@ public class Keywords {
 	public static void selectFromDropDown(String locator, String arg2, String arg3) {
 		//code here
 	}
+	
+	public static void someKeyword(String locator, String arg2, String arg3) {
+		//code here
+	}
+	
+	public static void someKeyword1(String locator, String arg2, String arg3) {
+		//code here
+	}
 }
