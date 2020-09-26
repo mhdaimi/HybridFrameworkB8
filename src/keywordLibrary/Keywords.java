@@ -182,11 +182,11 @@ public class Keywords {
 		//code here
 	}
 	
-	public static void someKeyword(String locator, String arg2, String arg3) {
+	public static void selectAValue1(String locator, String arg2, String arg3) {
 		//code here
 	}
 	
-	public static void someKeyword1(String locator, String arg2, String arg3) {
+	public static void selectAValue(String locator, String arg2, String arg3) {
 		//code here
 	}
 }
