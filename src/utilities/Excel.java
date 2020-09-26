@@ -56,5 +56,9 @@ public class Excel {
 		wb.write(out);
 		out.close();
 	}
+	
+	static void samplemethod() {
+		
+	}
 
 }
