@@ -189,4 +189,8 @@ public class Keywords {
 	public static void selectAValue(String locator, String arg2, String arg3) {
 		//code here
 	}
+	
+	public static void blah() {
+		
+	}
 }
