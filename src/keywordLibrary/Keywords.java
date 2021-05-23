@@ -193,4 +193,8 @@ public class Keywords {
 	public static void blah() {
 		
 	}
+	public static void practice()
+	{
+		
+	}
 }
